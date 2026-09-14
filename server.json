@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/bitquery",
+  "title": "Bitquery",
+  "description": "Bitquery MCP — trade-level blockchain data (DEX trades, transfers, holders)",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/bitquery",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-bitquery",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/bitquery/mcp"
+    }
+  ]
+}
