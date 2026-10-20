@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-bitquery",
-  "version": "0.1.2",
-  "description": "Bitquery MCP — trade-level blockchain data (DEX trades, transfers, holders)",
+  "version": "0.1.3",
+  "description": "Bitquery MCP — trade-level blockchain data (DEX trades, transfers, holders) across 40+ chains via the Bitquery v2 GraphQL API (bitquery.io).",
   "type": "module",
   "main": "src/index.ts",
   "types": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3035a0f296b59d1c309c21148711a4f3c258231c90166df5d3a20858bb5a1691",
-    "sourceCommit": "babdd280d475dceddecc9ebf8f2a661712781a81"
+    "sourceHash": "v1-6f3d92a3f299cf08f5776bba7f4114808a39c93d5d3de43300acafd3c539aa4b",
+    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
   }
 }
